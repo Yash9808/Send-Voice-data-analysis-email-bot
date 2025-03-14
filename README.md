@@ -98,3 +98,4 @@ Troubleshooting:
 Error connecting to FTP: Ensure that the FTP credentials and server details are correct.
 API errors: Ensure the correct API keys and Google credentials are provided.
 Missing files: Ensure the folder path is correct and the audio files are available.
+![visual selection](https://github.com/user-attachments/assets/2d038cbc-6287-438d-a5a9-b660eab6a687)
